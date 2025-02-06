@@ -1,0 +1,47 @@
+# Finternet AI - Crypto AI Agents
+
+## 🚀 Project Overview
+**Finternet AI** aims to revolutionize the financial internet with AI-powered crypto solutions. Our vision includes:
+
+- **Wallet Tracking Bot** – AI-driven tracking for wallet movements & analytics.
+- **AI Trading Bot** – Automated, intelligent trading for maximizing returns.
+- **Crypto Transaction Tools** – Secure and seamless crypto transfers.
+- **Safety Vault** – A protected storage for digital assets with AI security layers.
+- **Other AI Agents** – Exploring trending AI-powered crypto innovations.
+
+## 📌 Roadmap
+### Phase 1: Research & Planning (Q1 2025)
+- Define core AI & blockchain technologies.
+- Develop project whitepaper.
+- Launch GitHub repo & community.
+
+### Phase 2: Prototyping & MVP Development (Q2 2025)
+- Build initial AI Wallet Tracker prototype.
+- Test AI Trading Bot algorithms.
+- Develop smart contract safety vault.
+
+### Phase 3: Public Beta & Scaling (Q3-Q4 2025)
+- Release beta versions for user feedback.
+- Optimize AI transaction security.
+- Expand to multi-chain support.
+
+### Phase 4: Full Launch & Expansion (2026+)
+- Deploy production-ready AI agents.
+- Introduce governance & decentralized AI finance model.
+- Explore partnerships & integrations.
+
+## 📂 Repository Structure
+```
+/finternet-ai
+│-- README.md
+│-- project_plan.txt
+│-- roadmap.txt
+│-- bots/
+│   │-- wallet_tracker.py (Placeholder)
+│   │-- ai_trading_bot.py (Placeholder)
+│-- contracts/
+│   │-- safety_vault.sol (Placeholder)
+```
+
+## 🔥 Get Involved
+Interested in contributing? Open issues, fork the repo, and let's build the **Finternet** together! 
